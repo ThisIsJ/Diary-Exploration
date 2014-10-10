@@ -1,6 +1,5 @@
 PL-2
 ====
-TESTING SARAH
 
 ## Project Description
 * A Presidential Libraries calendar website and API for the Presidential daily diaries.
@@ -31,7 +30,7 @@ TESTING SARAH
 * API to include complete information about the Entry (who, titles, what, where, significance, etc.)
 * Layer for table of contents -- a listing of headers
 * Layer for terms -- defined terms, including their scope
-* 
+
 
 ### Site Features
 * Features a curated "on this day" rotating image/entry - 
@@ -40,17 +39,36 @@ TESTING SARAH
 * Features image and transcript, if available
 * Navigation is inobtrusive and minimal - similar in look to the article page at [readwrite.com] (http://readwrite.com/2014/10/07/ios8-installations-mediocre-software-apps)
 * embeddable calendar widget
-* Definitions: Defined terms or individuals are highlighted in the text; clicking them opens the term's definition in the sidebar.
+* Definitions: Call-outs for defined terms or individualsin the text; clicking them opens the term's definition in the sidebar.
 * Search
   * One box keyword search with option of advanced search, similar to upper right [JFK website] (http://www.jfklibrary.org/) results are auto fill, and results are categorized by type
   * Date search - retrieve by date (month, day, and/or year)
 * Responsive Design - The application design is responsive, adjusting to the device and screen size of the user.
 
 
+* Calendar
+  * Features the selected "On This Day" entries
+  * Embeddable for other sites
+  * Links to search box to discover other entries
+  
 * Citations
   * Ability to draw attention to specific sections of interest within entries
   * Inline annotations
   * Allow citations in the diary entries, and we display them as clickable links allowing easy navigation within a diary.
+  
+* Tool to Crowdsource Transcriptions
+  * Most of the digitized daily diary entries are image-based PDFs or JPEGs. Very few are OCR.  
+  * We want a tool that people can use to transcribe the text of the diaries.  
+  * The crowdsourced transcriptions will be submitted for approval.  Upon approval, a transcript will accompany the image.
+  
+## Consideration
+* Our holdings of Presidential diaries are diverse formats used by different administrations.
+  * Handwritten diary entries by a President.
+  * Handwritten appointment book by staff.
+  * PDFs of typed Presidents' schedules. 
+  * Some of the PDFs have OCR.
+* Most entries do not have machine readable text.
+* Content located at different websites of the Presidential Libraries, or our partner organizations.
 
 
 ## Existing Digitized Diaries
