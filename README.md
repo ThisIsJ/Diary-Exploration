@@ -44,18 +44,14 @@ PL-2
   * One box keyword search with option of advanced search, similar to upper right [JFK website] (http://www.jfklibrary.org/) results are auto fill, and results are categorized by type
   * Date search - retrieve by date (month, day, and/or year)
 * Responsive Design - The application design is responsive, adjusting to the device and screen size of the user.
-
-
 * Calendar
   * Features the selected "On This Day" entries
   * Embeddable for other sites
   * Links to search box to discover other entries
-  
 * Citations
   * Ability to draw attention to specific sections of interest within entries
   * Inline annotations
   * Allow citations in the diary entries, and we display them as clickable links allowing easy navigation within a diary.
-  
 * Tool to Crowdsource Transcriptions
   * Most of the digitized daily diary entries are image-based PDFs or JPEGs. Very few are OCR.  
   * We want a tool that people can use to transcribe the text of the diaries.  
